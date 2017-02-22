@@ -1,0 +1,16 @@
+{
+  "name": "todoWebApp",
+  "homepage": "https://github.com/nielsgreep/todoWebApp",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "PolymerElements/paper-elements#^1.0.7"
+  }
+}
